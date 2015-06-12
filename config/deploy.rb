@@ -2,7 +2,7 @@
 lock '3.4.0'
 
 set :application, 'eurotaller'
-set :repo_url, 'git@github.com:mauricioarias/eurotaller.git'
+set :repo_url, 'git@github.com:mauricioarias/eurotaller1.git'
 set :deploy_to, '/opt/www/eurotaller'
 set :user, 'deploy'
 set :linked_dirs, %w{log tmp/pids tmp/cache tmp/sockets}
